@@ -1,12 +1,13 @@
-all: build commit push show
+all: commit push show
 
 check:
+	sort index.txt | uniq -d
 	test -z "$$(sort index.txt | uniq -d)"
 
-build:
+build: check
 	./build.sh
 
-commit:
+commit: build
 	git add --all
 	echo "$$(git status -s | awk 'NR==1 {printf $$1":"$$2} NR!=1 {printf " "$$1":"$$2}')\n\n$$(git status -s)" | git commit -F -
 
