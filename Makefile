@@ -1,4 +1,4 @@
-all: commit push show
+all: commit push show newsboat
 
 check:
 	sort index.txt | uniq -d
@@ -16,4 +16,7 @@ push:
 
 show:
 	@echo 'https://raw.githubusercontent.com/wolfogre/blog-opml/master/index.opml'
+
+newsboat:
+	cp index.txt ~/.newsboat/urls
 

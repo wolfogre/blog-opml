@@ -4,7 +4,9 @@
 <body>
 
 <outline xmlUrl="http://tonybai.com/feed/" />
+<outline xmlUrl="http://www.mac52ipod.cn/feed.php" />
 <outline xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" />
+<outline xmlUrl="https://blog.alswl.com/atom.xml" />
 <outline xmlUrl="https://blog.wolfogre.com/index.xml" />
 <outline xmlUrl="https://coolshell.cn/feed" />
 <outline xmlUrl="https://draveness.me/feed.xml" />
