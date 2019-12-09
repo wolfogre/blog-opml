@@ -1,0 +1,14 @@
+http://tonybai.com/feed/
+http://www.mac52ipod.cn/feed.php
+http://www.ruanyifeng.com/blog/atom.xml
+https://blog.alswl.com/atom.xml
+https://blog.wolfogre.com/index.xml
+https://coolshell.cn/feed
+https://draveness.me/feed.xml
+https://henix.github.io/feeds/yinwang/index.xml
+https://jiajunhuang.com/rss
+https://laod.cn/feed/
+https://mzh.io/index.xml
+https://pureage.info/post/index.xml
+https://research.swtch.com/feed.atom
+https://www.xianmin.org/index.xml

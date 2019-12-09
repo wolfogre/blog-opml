@@ -1,4 +1,4 @@
-all: commit push show newsboat history
+all: history commit push show newsboat
 
 check:
 	sort index.txt | uniq -d
@@ -6,6 +6,10 @@ check:
 
 build: check
 	./build.sh
+
+history:
+	cat index.txt >> history.txt
+	sort history.txt -u -o history.txt
 
 commit: build
 	git add --all
@@ -20,6 +24,4 @@ show:
 newsboat:
 	cp index.txt ~/.newsboat/urls
 
-history:
-	cat index.txt >> history.txt
-	sort history.txt -u -o history.txt
+
