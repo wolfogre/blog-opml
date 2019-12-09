@@ -20,3 +20,6 @@ show:
 newsboat:
 	cp index.txt ~/.newsboat/urls
 
+history:
+	cat index.txt >> history.txt
+	sort history.txt -u -o history.txt
