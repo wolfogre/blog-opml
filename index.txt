@@ -1,0 +1,2 @@
+https://blog.wolfogre.com/index.xml
+http://www.ruanyifeng.com/blog/atom.xml
