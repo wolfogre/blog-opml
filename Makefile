@@ -1,4 +1,4 @@
-all: build commit push
+all: build commit push show
 
 build:
 	./build.sh
