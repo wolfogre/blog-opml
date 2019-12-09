@@ -1,5 +1,8 @@
 all: build commit push show
 
+check:
+	test -z "$$(sort index.txt | uniq -d)"
+
 build:
 	./build.sh
 
