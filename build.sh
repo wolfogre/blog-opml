@@ -2,8 +2,6 @@
 
 set -e
 
-sort index.txt | uniq -d
-
 echo '
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
