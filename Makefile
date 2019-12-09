@@ -1,4 +1,4 @@
-all: commit push show newsboat
+all: commit push show newsboat history
 
 check:
 	sort index.txt | uniq -d
