@@ -10,3 +10,6 @@ commit:
 push:
 	git push origin master
 
+show:
+	@echo 'https://raw.githubusercontent.com/wolfogre/blog-opml/master/index.opml'
+
