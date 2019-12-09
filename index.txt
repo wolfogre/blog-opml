@@ -1,2 +1,12 @@
 https://blog.wolfogre.com/index.xml
 http://www.ruanyifeng.com/blog/atom.xml
+https://henix.github.io/feeds/yinwang/index.xml
+https://research.swtch.com/feed.atom
+https://draveness.me/feed.xml
+https://coolshell.cn/feed
+https://pureage.info/post/index.xml
+https://www.xianmin.org/index.xml
+https://laod.cn/feed/
+https://mzh.io/index.xml
+https://jiajunhuang.com/rss
+http://tonybai.com/feed/

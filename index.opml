@@ -3,8 +3,18 @@
 <opml version="2.0">
 <body>
 
-<outline xmlUrl="https://blog.wolfogre.com/index.xml" />
+<outline xmlUrl="http://tonybai.com/feed/" />
 <outline xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" />
+<outline xmlUrl="https://blog.wolfogre.com/index.xml" />
+<outline xmlUrl="https://coolshell.cn/feed" />
+<outline xmlUrl="https://draveness.me/feed.xml" />
+<outline xmlUrl="https://henix.github.io/feeds/yinwang/index.xml" />
+<outline xmlUrl="https://jiajunhuang.com/rss" />
+<outline xmlUrl="https://laod.cn/feed/" />
+<outline xmlUrl="https://mzh.io/index.xml" />
+<outline xmlUrl="https://pureage.info/post/index.xml" />
+<outline xmlUrl="https://research.swtch.com/feed.atom" />
+<outline xmlUrl="https://www.xianmin.org/index.xml" />
 
 </body>
 </opml>
