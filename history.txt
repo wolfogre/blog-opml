@@ -1,4 +1,3 @@
-
 http://tonybai.com/feed/
 http://www.mac52ipod.cn/feed.php
 http://www.ruanyifeng.com/blog/atom.xml
@@ -12,5 +11,6 @@ https://jiajunhuang.com/rss
 https://laod.cn/feed/
 https://mzh.io/index.xml
 https://pureage.info/post/index.xml
+https://purewhite.io/atom.xml
 https://research.swtch.com/feed.atom
 https://www.xianmin.org/index.xml

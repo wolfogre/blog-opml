@@ -2,6 +2,8 @@
 
 set -e
 
+cat index.txt history.txt | sed '/^$/d' | sort -u -o history.txt
+
 echo '
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">

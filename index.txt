@@ -13,4 +13,5 @@ http://tonybai.com/feed/
 https://blog.alswl.com/atom.xml
 http://www.mac52ipod.cn/feed.php
 https://blog.golang.org/feed.atom
+https://purewhite.io/atom.xml
 
