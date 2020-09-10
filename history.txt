@@ -10,6 +10,7 @@ https://draveness.me/feed.xml
 https://henix.github.io/feeds/yinwang/index.xml
 https://jiajunhuang.com/rss
 https://laod.cn/feed/
+https://manage.hostdare.com/announcements/rss
 https://mzh.io/index.xml
 https://pureage.info/post/index.xml
 https://purewhite.io/atom.xml
